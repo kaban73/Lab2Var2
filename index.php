@@ -9,29 +9,24 @@
     <title>Главная страница</title>
 </head>
 <body>
-    
-    <div class="wrapper">
 
+    <div class="content_backrgound ">
         <div class="content">
-
             <div class="zastavka">
-                
+                asdasd
             </div>
 
-            <div class="header"></div>
+            <div class="header">
+                asdas
+            </div>
 
             <div class="content_content">
-
-                <div class="container">
-                    asdas
-                </div>
-
+                sdasd
             </div>
+        </div>
 
-            <div class="footer">
-                dasd
-            </div>
-
+        <div class="footer">
+                asdas
         </div>
 
     </div>

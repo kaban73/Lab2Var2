@@ -7,24 +7,22 @@ body {
     color: #ebdaac;
 }
 
-.wrapper {
-    min-height: 100%;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-}
-
-.content {
+.content_backrgound {
     background-color: #26202c;
     max-width: 70%;
     margin: 0px auto;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.content_content {
+.content {
+    margin: 0px 20px 0px 20px;
+    background-color: #2a2432;
+
     flex: 1 1 auto;
 }
 
-.container {
-    max-width: 95%;
-    margin: 0px auto;
+.content_content {
 }
