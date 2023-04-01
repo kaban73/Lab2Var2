@@ -24,5 +24,14 @@ body {
     flex: 1 1 auto;
 }
 
+.row_content {
+    display: flex;
+    flex-direction: column;
+}
+
+.zastavka img{
+    max-width: 100%;
+}
+
 .content_content {
 }

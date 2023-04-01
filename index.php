@@ -12,16 +12,42 @@
 
     <div class="content_backrgound ">
         <div class="content">
-            <div class="zastavka">
-                asdasd
-            </div>
+            <div class="row_content">
 
-            <div class="header">
-                asdas
-            </div>
+                <div class="zastavka">
+                    <img src="images/zastavka.jpg" alt="">
+                </div>
 
-            <div class="content_content">
-                sdasd
+                <div class="header">
+                    <div class="nav_panel">
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                        <div class="nav_el">
+                            <a href="#">home</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="content_content">
+                    sdasd
+                </div>
+
             </div>
         </div>
 
