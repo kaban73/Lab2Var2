@@ -21,31 +21,31 @@
                 <div class="header">
                     <div class="nav_panel">
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                         <div class="nav_el">
-                            <a href="#">home</a>
+                            <a href="#">HOME</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="content_content">
-                    sdasd
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque mollitia dolorum facere delectus ea deleniti! Pariatur quae in voluptates, nobis facilis odit soluta deserunt labore asperiores error beatae nulla qui ipsa nihil vel quaerat laborum accusantium commodi eum quos temporibus doloremque non! Ipsa quas commodi culpa temporibus facilis reprehenderit distinctio placeat laboriosam perferendis perspiciatis a quam quaerat, doloremque sed ea blanditiis, nesciunt rem aperiam. Officia labore fugiat fuga esse, blanditiis ex corporis tempora libero doloremque laboriosam a, ipsum veniam quis vitae, quisquam cupiditate eaque expedita! Nulla incidunt, eos, mollitia eligendi at quam dolores architecto quidem facere explicabo suscipit eius ullam!</p>
                 </div>
 
             </div>
