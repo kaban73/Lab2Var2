@@ -45,7 +45,32 @@
                 </div>
 
                 <div class="content_content">
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque mollitia dolorum facere delectus ea deleniti! Pariatur quae in voluptates, nobis facilis odit soluta deserunt labore asperiores error beatae nulla qui ipsa nihil vel quaerat laborum accusantium commodi eum quos temporibus doloremque non! Ipsa quas commodi culpa temporibus facilis reprehenderit distinctio placeat laboriosam perferendis perspiciatis a quam quaerat, doloremque sed ea blanditiis, nesciunt rem aperiam. Officia labore fugiat fuga esse, blanditiis ex corporis tempora libero doloremque laboriosam a, ipsum veniam quis vitae, quisquam cupiditate eaque expedita! Nulla incidunt, eos, mollitia eligendi at quam dolores architecto quidem facere explicabo suscipit eius ullam!</p>
+                    <div class="row_content_content">
+                        <div class="content_block_1">
+                            <div class="hello">
+                                <div class="row_hello">
+                                    <div class="image_hello">
+                                        <img src="images/hello.jpg" alt="">
+                                    </div>
+                                    <div class="text_hello">
+                                        <div class="title_hello">
+                                            Hello!
+                                        </div>
+                                        <div class="subtitle_hello">
+                                            tationem laborum, impedit iusto consectetur, repudiandae pariatur fugiat, nostrum quis labore!
+                                        </div>
+                                        <div class="text_text_hello">
+                                            <p>pedit fugit amet asperiores aliquam est rerum. Voluptatibus porro beatae, eum perspiciatis aut provident odit natus ut. Inventore rerum dolor non nihil molestias illum ducimus, dolorum cum perferendis eveniet saepe, cupiditate aut atque magnam.</p>
+                                            <p>nderit tempore harum nulla aut quia? Aperiam, odio quos. Vero eligendi dolore similique in est mollitia quis expedita ex itaque reprehenderit deserunt aperiam sapiente, fuga sequi a provident dolor distinctio labore quibusdam aliquam.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="content_block_2">
+                            dfdsffsdf
+                        </div>
+                    </div>
                 </div>
 
             </div>
