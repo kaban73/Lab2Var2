@@ -86,6 +86,48 @@
                                                                     <div class="card_image_date">
                                                                         <div class="card_image_date_date">
                                                                             <div class="date_num">24</div>
+                                                                            <div class="date_month">SEPT</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="card_text">
+                                                                <div class="card_text_title">ddsadasdas</div>
+                                                                <div class="card_text_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque exercitationem doloremque iusto quo, commodi sint asperiores deleniti excepturi nulla eius.</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card_event">
+                                                        <div class="row_card_event">
+                                                            <div class="card_image">
+                                                                <div class="row_card_image">
+                                                                    <div class="card_image_image">
+                                                                        <img src="images/event_1.png" alt="">
+                                                                    </div>
+                                                                    <div class="card_image_date">
+                                                                        <div class="card_image_date_date">
+                                                                            <div class="date_num">24</div>
+                                                                            <div class="date_month">sept</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="card_text">
+                                                                <div class="card_text_title">ddsadasdas</div>
+                                                                <div class="card_text_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque exercitationem doloremque iusto quo, commodi sint asperiores deleniti excepturi nulla eius.</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card_event">
+                                                        <div class="row_card_event">
+                                                            <div class="card_image">
+                                                                <div class="row_card_image">
+                                                                    <div class="card_image_image">
+                                                                        <img src="images/event_1.png" alt="">
+                                                                    </div>
+                                                                    <div class="card_image_date">
+                                                                        <div class="card_image_date_date">
+                                                                            <div class="date_num">24</div>
                                                                             <div class="date_month">sept</div>
                                                                         </div>
                                                                     </div>
