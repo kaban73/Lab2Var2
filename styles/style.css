@@ -75,21 +75,31 @@ body {
 
 .row_content_content {
     display: flex;
+    padding-left: 80px;
 }
 
 .content_block_1 {
     flex: 1 1 70%;
-    padding-left: 80px;
-    padding-top: 55px;
     margin-bottom: 100px;
+    background-color: #2a2432;
+}
+
+.content_block_1_row {
+    display: flex;
+    flex-direction: column;
+}
+
+.hello {
+    border-bottom: 0.1px solid #433d4b;
 }
 
 .row_hello {
     display: flex;
+    padding: 55px 30px 65px 0px;
 }
 
 .image_hello {
-    flex: 1 1 30%;
+    flex: 1 1 35%;
     margin-right: 40px;
 }
 
@@ -100,7 +110,7 @@ body {
 }
 
 .text_hello {
-    flex: 1 1 70%;
+    flex: 1 1 65%;
 }
 
 .title_hello {
@@ -120,6 +130,85 @@ body {
     color: #726c78;
 }
 
-.content_block_2 {
+.events {
+}
+
+.row_events {
+    display: flex;
+    flex-direction: column;
+    padding-top: 65px;
+}
+
+.title_events {
+    margin-bottom: 50px;
+}
+
+.scroll_events {
+
+}
+
+.row_scroll_events {
+    display: flex;
+    flex-direction: column;
+}
+
+.card_event {
+    border-bottom: 0.1px solid #312b39;
+    padding-bottom: 20px;
+    margin: 20px 30px 0px 0px;
+}
+
+.card_event:first-child {
+    margin: 0px 30px 0px 0px;
+}
+
+.card_event:last-child {
+    border-bottom: none;
+    padding-bottom: 0px;
+}
+
+.row_card_event {
+    display: flex;
+    align-items: center;
+}
+
+.card_image {
     flex: 1 1 30%;
+}
+
+.row_card_image {
+    display: flex;
+    background-color: #2e2836;
+    align-items: center;
+}
+
+.card_image_image {
+    flex: 1 1 128px;
+}
+
+.card_image_image img{
+    max-width: 94%;
+    border: 1px solid #292732;
+    outline: 5px solid #443e4b;
+}
+
+.card_image_date {
+    background-color: #2e2836;
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.card_image_date_date {
+    padding: 30px;
+}
+
+.card_text {
+    flex: 1 1 70%;
+    padding-left: 30px;
+}
+
+.content_block_2 {
+    background-color: #2e2836;
+    flex: 1 1 30%;
+    border-left: 0.1px solid #433d4b;
 }
