@@ -325,7 +325,35 @@
         </div>
 
         <div class="footer">
-                asdas
+            <div class="footer_container">
+                <div class="row_footer">
+                    <div class="authors_license">
+                        <span class="block_1">asdas </span><span class="block_2">dasdas</span>
+                    </div>
+                    <div class="contacts">
+                        <div class="row_contacts">
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                            <div class="element_contacts">
+                                <img src="images/vk.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>
