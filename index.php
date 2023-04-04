@@ -188,8 +188,135 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="content_block_2">
-                            dfdsffsdf
+                            <div class="content_block_2_row">
+                                <div class="music">
+                                    <div class="row_music">
+                                        <div class="music_title">
+                                            Music tracks
+                                        </div>
+                                        <div class="music_list">
+                                            <div class="row_music_list">
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                                <div class="music_element">
+                                                    <div class="row_music_element">
+                                                        <div class="music_element_play"><img src="images/play.png" alt=""></div>
+                                                        <div class="music_element_name">track number one</div>
+                                                        <div class="music_element_time">07:12</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="pictures">
+                                    <div class="row_pictures">
+                                        <div class="title_pictures">
+                                            The Kabani
+                                        </div>
+                                        <div class="gallery_pictures">
+                                            <div class="row_gallery_pictures">
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                                <div class="element_gallery">
+                                                    <img src="images/gallery_picture.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
