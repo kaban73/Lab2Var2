@@ -353,7 +353,7 @@ body {
 .row_gallery_pictures {
     display: grid;
     grid-template-columns: repeat(3, 77px);
-    grid-template-rows: repeat(3, 77px);
+    grid-template-rows: repeat(2, 77px);
 }
 
 .element_gallery {
@@ -414,4 +414,152 @@ body {
 
 .element_contacts img{
     width: 32px;
+}
+
+@media (max-width: 1676px) {
+    .nav_el {
+        padding: 30px 15px;
+    }
+
+    .image_hello img {
+        max-width: 100%;
+        border: 2px solid #292732;
+        outline: 7px solid #443e4b;
+    }
+
+    .title_hello {
+        font-size: 72px;
+        line-height: 55px;
+    }
+
+    .subtitle_hello {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .text_text_hello {
+        font-size: 13px;
+    }
+
+    .music_title {
+        margin-bottom: 30px;
+        font-size: 28px;
+        font-weight: 300;
+        line-height: 20px;
+    }
+
+    .music_element_play img {
+        width: 24px;
+    }
+
+    .music_element_name {
+        font-size: 13px;
+    }
+
+    .music_element_time {
+        font-size: 11px;
+    }
+
+    .row_gallery_pictures {
+        grid-template-columns: repeat(3, 67px);
+        grid-template-rows: repeat(2, 67px);
+    }
+}
+
+@media (max-width: 1280px) {
+    .nav_el {
+        padding: 15px 7px;
+        font-size: 14px;
+    }
+
+    .image_hello img {
+        max-width: 100%;
+        border: 2px solid #292732;
+        outline: 6px solid #443e4b;
+    }
+
+    .title_hello {
+        font-size: 48px;
+        line-height: 35px;
+    }
+
+    .subtitle_hello {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .text_text_hello {
+        font-size: 12px;
+    }
+
+    .title_events {
+        margin-bottom: 40px;
+        font-size: 28px;
+        line-height: 10px;
+    }
+
+    .card_text_title {
+        font-size: 14px;
+    }
+
+    .card_text_text {
+        font-size: 13px;
+    }
+
+    .card_image_image {
+        padding-right: 5px;
+    }
+
+    .card_image_date_date {
+        padding: 5px 11px 9px 10px;
+    }
+
+    .date_num {
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+    .date_month {
+        font-size: 10px;
+        line-height: 0px;
+    }
+
+    .music_title {
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .music_element_play img {
+        width: 18px;
+    }
+
+    .music_element_name {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .music_element_time {
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .title_pictures {
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .row_gallery_pictures {
+        grid-template-columns: repeat(3, 57px);
+        grid-template-rows: repeat(2, 57px);
+    }
+
+    .element_gallery img {
+        max-width: 100%;
+        width: 64px;
+        height: 64px;
+        border: 2px solid #292732;
+        outline: 4px solid #443e4b;
+    }
 }
