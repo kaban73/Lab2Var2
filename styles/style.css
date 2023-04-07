@@ -152,11 +152,32 @@ body {
 }
 
 .scroll_events {
+    /** BAZA
+    height:420px;
+    width:720px;
+    overflow:scroll;
+    overflow-x:hidden;
+    padding-top: 10px;
+    padding-left: 14px;
+    */
+
+    /** SLIDER
+    height:420px;
+    padding-top: 10px;
+    overflow:scroll;
+    overflow-x:hidden;
+    padding-left: 14px;
+    padding-right: 30px;
+    */
+
+    /** ACCORDEON*/
     height:420px;
     overflow:scroll;
     overflow-x:hidden;
     padding-top: 10px;
     padding-left: 14px;
+    padding-right: 30px;
+    
 }
 
 .scroll_events::-webkit-scrollbar {

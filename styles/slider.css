@@ -1,0 +1,66 @@
+.events_slider_container {
+
+}
+
+.events_slider_wrapper {
+    transform: translate3d(0px, 0px, 0px);
+    max-height: 150px;
+}
+
+.events_slider_slide {
+    background-color: rgb(54, 46, 61);
+    overflow: hidden;
+}
+
+
+.swiper-slide-active {
+    background-color: #3e364b;;
+    border: 1px solid #292732;
+    outline: 5px solid #443e4b;
+    margin-bottom: 10px;
+}
+
+
+
+.swiper-slide-active:first-child {
+
+}
+
+.row_slide {
+    display: flex;
+    padding: 10px;
+}
+
+.swiper-slide-active .card_image {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.events_slider_text_title{
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.events_slider_text {
+    flex: 1 1 70%;
+    padding-left: 20px;
+    align-self: center;
+}
+
+.swiper-slide-active .events_slider_text_title {
+    font-size: 18px;
+    letter-spacing:normal;
+    color: #dfccbc;
+    font-weight: 300;
+}
+
+.events_slider_text_text {
+    display: none;
+    color: #938b9b;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.swiper-slide-active .events_slider_text_text {
+    display: block;
+}
